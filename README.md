@@ -6,6 +6,9 @@ Bandit Mechanical Design is the open-source design workspace for Bandit, a commu
 
 The robot's appearance and mechanical design are yours to explore, modify, and improve.
 
+<img width="1280" height="612" alt="image" src="https://github.com/user-attachments/assets/95164782-4d13-41e6-b91d-97e8bbcf4a29" />
+
+
 Start with our editable Bandit model, create a new shell, experiment with hardware modifications, design components for 3D printing, or build your own version of Bandit.
 
 **Your design could become the next Bandit.**
@@ -26,7 +29,7 @@ Clone this repository:
 
 ```bash
 git lfs install
-git clone https://github.com/banditteam/bandit-mechanical-design.git
+git clone https://github.com/banditteam/bandit-design.git
 ```
 
 Open the Blender source file and start designing.
